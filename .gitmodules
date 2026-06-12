@@ -1,0 +1,15 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:Matteo-Nossro/sentinel-api-gateway.git
+[submodule "ingestion-service"]
+	path = ingestion-service
+	url = git@github.com:Matteo-Nossro/sentinel-ingestion-service.git
+[submodule "rules-engine"]
+	path = rules-engine
+	url = git@github.com:Matteo-Nossro/sentinel-rules-engine.git
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:Matteo-Nossro/sentinel-notification-service.git
+[submodule "sentinel-front"]
+	path = sentinel-front
+	url = git@github.com:Matteo-Nossro/sentinel-front.git
