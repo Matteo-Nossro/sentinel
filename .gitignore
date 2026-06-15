@@ -1,1 +1,32 @@
+### Environnement ###
 .env
+.env.*
+!.env.example
+
+### IDE ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.sublime-workspace
+*.swp
+*~
+
+### Claude Code ###
+CLAUDE.md
+.claude/
+docs/
+
+### OS ###
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Logs ###
+*.log
+logs/
+
+### Node (sentinel-front si clonage sans submodules) ###
+node_modules/
