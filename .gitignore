@@ -30,3 +30,7 @@ logs/
 
 ### Node (sentinel-front si clonage sans submodules) ###
 node_modules/
+
+### Perso / hors scope portfolio ###
+bruno/
+docs-entretien/
